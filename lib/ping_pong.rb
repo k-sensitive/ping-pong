@@ -16,5 +16,3 @@ class Fixnum
     new_array
   end
 end
-
-#something
